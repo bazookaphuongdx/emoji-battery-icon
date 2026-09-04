@@ -1,0 +1,11 @@
+{
+  "data": {
+    "app_config": {
+      "ad_flow_script": "CTR_SPAM"
+    }
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}

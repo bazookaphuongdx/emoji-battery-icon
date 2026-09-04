@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-New battery icon\n-New emoji",
+        "force_update": "true",
+        "package_name": "com.emojii.batteryicon.emojibattery",
+        "version_code": 1,
+        "version_name": "1.0",
+        "new_package_name": "com.emojii.batteryicon.emojibattery"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
