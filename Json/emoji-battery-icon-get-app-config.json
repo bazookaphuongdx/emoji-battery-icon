@@ -1,7 +1,7 @@
 {
   "data": {
     "app_config": {
-      "ad_flow_script": "VALID"
+      "ad_flow_script": "CTR_SPAM"
     }
   },
   "meta": {
