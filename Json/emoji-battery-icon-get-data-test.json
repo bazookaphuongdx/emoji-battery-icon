@@ -1,53 +1,1272 @@
 {
   "data": [
-  
     {
-      "pack": "birthday",
-      "quantity": "17"
-    },
-    {
-      "pack": "cake",
-      "quantity": "21"
-    },
-    {
-      "pack": "cartoon",
-      "quantity": "30"
-    },
-    {
-      "pack": "cute",
-      "quantity": "24"
-    },
-    {
-      "pack": "emoji",
-      "quantity": "30"
-    },
-    {
-      "pack": "fruit",
-      "quantity": "27"
-    },
-    {
-      "pack": "halloween",
-      "quantity": "27"
-    },
-    {
-      "pack": "love",
-      "quantity": "24"
-    },
-    {
-      "pack": "summer",
-      "quantity": "30"
-    },
-    {
-      "pack": "text",
-      "quantity": "28"
-    },
-    {
-      "pack": "trending",
-      "quantity": "18"
+      "pack": "sanrio",
+      "total_quantity": 27,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "2.png",
+          "vip": true,
+          "character_name": "Kuromi"
+        },
+        {
+          "name": "3.png",
+          "vip": true,
+          "character_name": "Kuromi"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "Hangyodon"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Hangyodon"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Kuromi"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Pompompurin"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Hangyodon"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "My Melody"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Cinnamoroll"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "Kuromi"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Hello Kitty"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Pompompurin"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Keroppi"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "Cinnamoroll"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Hello Kitty"
+        },
+        {
+          "name": "25.png",
+          "vip": false,
+          "character_name": "Kuromi"
+        },
+        {
+          "name": "26.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        },
+        {
+          "name": "27.png",
+          "vip": false,
+          "character_name": "Pochacco"
+        }
+      ]
     },
     {
       "pack": "xmas",
-      "quantity": "27"
+      "total_quantity": 27,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true,
+          "character_name": "Christmas Elf"
+        },
+        {
+          "name": "2.png",
+          "vip": true,
+          "character_name": "Santa Stitch"
+        },
+        {
+          "name": "3.png",
+          "vip": true,
+          "character_name": "Meliodas Christmas"
+        },
+        {
+          "name": "4.png",
+          "vip": true,
+          "character_name": "Christmas Penguin"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Anya Christmas"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Nezuko Christmas"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Snowman"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Santa Claus"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Merry Christmas Text"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Christmas Tree"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Yuji Itadori Christmas"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Reindeer"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Mickey Christmas"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Gnome Christmas"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "Minion Christmas"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Elf Jumping"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Christmas Snow Letters"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Bluey Christmas"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "Snoopy Christmas"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Snowman Toy"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Gingerbread Man"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Goku Christmas"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "Sonic Christmas"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Gojo Christmas"
+        },
+        {
+          "name": "25.png",
+          "vip": false,
+          "character_name": "Sleeping Snowman"
+        },
+        {
+          "name": "26.png",
+          "vip": false,
+          "character_name": "Anya Sitting Christmas"
+        },
+        {
+          "name": "27.png",
+          "vip": false,
+          "character_name": "Anime Girl Christmas"
+        }
+      ]
+    },
+    {
+      "pack": "halloween",
+      "total_quantity": 27,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true,
+          "character_name": "Pumpkin Kid"
+        },
+        {
+          "name": "2.png",
+          "vip": true,
+          "character_name": "Witch Anime Girl"
+        },
+        {
+          "name": "3.png",
+          "vip": true,
+          "character_name": "Little Devil Girl"
+        },
+        {
+          "name": "4.png",
+          "vip": true,
+          "character_name": "Snoopy Witch"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Grinch Witch"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Vampire Minion"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Wizard Pikachu"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Pikachu Halloween"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Vampire Luffy"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Anime Girl with Pumpkin"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Charlie Brown Witch"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Vampire Stitch"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Witch Mickey"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Witch Anime Girl"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "Mummy Stitch"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Skeleton Kuromi"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Anya Pumpkin"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Wizard Luffy"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "Gothic Kuromi"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Mummy Minion"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Cauldron Mickey"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Nezuko Halloween"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "Skeleton Mickey"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Ghost Costume"
+        },
+        {
+          "name": "25.png",
+          "vip": false,
+          "character_name": "Bat Kuromi"
+        },
+        {
+          "name": "26.png",
+          "vip": false,
+          "character_name": "Grim Reaper"
+        },
+        {
+          "name": "27.png",
+          "vip": false,
+          "character_name": "Purple Monster"
+        }
+      ]
+    },
+    {
+      "pack": "birthday",
+      "quantity": "17",
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true
+        },
+        {
+          "name": "2.png",
+          "vip": true
+        },
+        {
+          "name": "15.png",
+          "vip": true
+        },
+        {
+          "name": "16.png",
+          "vip": true
+        },
+        {
+          "name": "17.png",
+          "vip": true
+        },
+        {
+          "name": "27.png",
+          "vip": true
+        }
+      ]
+    },
+    {
+      "pack": "cake",
+      "quantity": "21",
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true
+        },
+        {
+          "name": "2.png",
+          "vip": true
+        },
+        {
+          "name": "15.png",
+          "vip": true
+        },
+        {
+          "name": "16.png",
+          "vip": true
+        },
+        {
+          "name": "17.png",
+          "vip": true
+        },
+        {
+          "name": "27.png",
+          "vip": true
+        }
+      ]
+    },
+    {
+      "pack": "cute",
+      "total_quantity": 24,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": false,
+          "character_name": "Molang"
+        },
+        {
+          "name": "2.png",
+          "vip": false,
+          "character_name": "Unicorn Cat"
+        },
+        {
+          "name": "3.png",
+          "vip": false,
+          "character_name": "Chick"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "Cool Rabbit"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Sleepy Cat"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "White Rabbit"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Molang Lying Down"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Orange Cat"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Hen and Chicks"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Love Chick"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Cat with Butterfly"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Green Hat Chick"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Cupid Molang"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Cuddling Cats"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "Rabbit in Teacup"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "White Cat with Heart"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Sparkling Cat"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Balloon Rabbit"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "Pink Hoodie Character"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Box Cat"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Fried Egg"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Boba Bear"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "Banana Cat"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Sun Hot Air Balloon"
+        }
+      ]
+    },
+    {
+      "pack": "emoji",
+      "total_quantity": 30,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": false,
+          "character_name": "Crying Face"
+        },
+        {
+          "name": "2.png",
+          "vip": false,
+          "character_name": "UwU Face"
+        },
+        {
+          "name": "3.png",
+          "vip": false,
+          "character_name": "Sad Face"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "Wink Face"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Blushing Face"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Shocked Face"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Angry Face"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Glaring Eyes"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Heart Eyes"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Frustrated Face"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Dizzy Face"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Fuming Angry Face"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Excited Heart Eyes"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Deadpan Face"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "Starry Eyes"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Shy Face"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Heavy Crying Face"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Distressed Face"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "Green Glowing Eyes"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Nerdy Face"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Angelic Face"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Sleepy Face"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "Happy Blushing Face"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Sweating Shy Face"
+        },
+        {
+          "name": "25.png",
+          "vip": false,
+          "character_name": "Hypnotized Face"
+        },
+        {
+          "name": "26.png",
+          "vip": false,
+          "character_name": "Knocked Out Face"
+        },
+        {
+          "name": "27.png",
+          "vip": false,
+          "character_name": "Puppy Eyes"
+        },
+        {
+          "name": "28.png",
+          "vip": false,
+          "character_name": "Weeping Face"
+        },
+        {
+          "name": "29.png",
+          "vip": false,
+          "character_name": "Smirking Face"
+        },
+        {
+          "name": "30.png",
+          "vip": false,
+          "character_name": "Joyful Blushing Face"
+        }
+      ]
+    },
+    {
+      "pack": "fruit",
+      "total_quantity": 27,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": false,
+          "character_name": "Banana"
+        },
+        {
+          "name": "2.png",
+          "vip": false,
+          "character_name": "Avocado"
+        },
+        {
+          "name": "3.png",
+          "vip": false,
+          "character_name": "Pineapple"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "Watermelon"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Orange"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Onion"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Pear"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Apple"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Peach"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Avocado Character"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Sliced Orange"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Green Apple"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Strawberry"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Green Pear"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "Corn"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Radish"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Mango"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Cute Peach"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "Tomato"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Green Coconut"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Yellow Citrus"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Carrot"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "Lemon"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Dragon Fruit"
+        },
+        {
+          "name": "25.png",
+          "vip": false,
+          "character_name": "Orange with Leaf"
+        },
+        {
+          "name": "26.png",
+          "vip": false,
+          "character_name": "Happy Strawberry"
+        },
+        {
+          "name": "27.png",
+          "vip": false,
+          "character_name": "Cabbage"
+        }
+      ]
+    },
+    {
+      "pack": "love",
+      "quantity": "24",
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true
+        },
+        {
+          "name": "2.png",
+          "vip": true
+        },
+        {
+          "name": "15.png",
+          "vip": true
+        },
+        {
+          "name": "16.png",
+          "vip": true
+        },
+        {
+          "name": "17.png",
+          "vip": true
+        },
+        {
+          "name": "27.png",
+          "vip": true
+        }
+      ]
+    },
+    {
+      "pack": "summer",
+      "total_quantity": 30,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": false,
+          "character_name": "Tropical Island"
+        },
+        {
+          "name": "2.png",
+          "vip": false,
+          "character_name": "Coconut Drink"
+        },
+        {
+          "name": "3.png",
+          "vip": false,
+          "character_name": "Flip-flops"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "Popsicle"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Cocktail"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Beach Ball"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Camera"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Ice Cream Cone"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Heart Sunglasses"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Cocktail Drink"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Beach Umbrella"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Surfboards"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Flamingo Float"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Sun Drinking"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "Sun Hat"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Summer Text"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Starfish"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Swim Ring"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "Rainbow"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Colorful Umbrella"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Cocktail Glass"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Let's Go Text"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "Snorkel & Mask"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Yellow Flip-flops"
+        },
+        {
+          "name": "25.png",
+          "vip": false,
+          "character_name": "Swim Trunks"
+        },
+        {
+          "name": "26.png",
+          "vip": false,
+          "character_name": "Watermelon"
+        },
+        {
+          "name": "27.png",
+          "vip": false,
+          "character_name": "Lemonade"
+        },
+        {
+          "name": "28.png",
+          "vip": false,
+          "character_name": "Bikini"
+        },
+        {
+          "name": "29.png",
+          "vip": false,
+          "character_name": "Vintage Camera"
+        },
+        {
+          "name": "30.png",
+          "vip": false,
+          "character_name": "Lifebuoy"
+        }
+      ]
+    },
+    {
+      "pack": "text",
+      "total_quantity": 28,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": false,
+          "character_name": "Love"
+        },
+        {
+          "name": "2.png",
+          "vip": false,
+          "character_name": "OMG"
+        },
+        {
+          "name": "3.png",
+          "vip": false,
+          "character_name": "Happy"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "Cute"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Oh Yeah"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Bye"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Hello"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Summer"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Go"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Bye"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Hi"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "LOL"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Yes"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "WOW"
+        },
+        {
+          "name": "15.png",
+          "vip": false,
+          "character_name": "I Love U"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Love"
+        },
+        {
+          "name": "17.png",
+          "vip": false,
+          "character_name": "Best"
+        },
+        {
+          "name": "18.png",
+          "vip": false,
+          "character_name": "Oh Yeah"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "No"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "OMG"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "Love"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Yes"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "OOH"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "Nice"
+        },
+        {
+          "name": "25.png",
+          "vip": false,
+          "character_name": "Okay"
+        },
+        {
+          "name": "26.png",
+          "vip": false,
+          "character_name": "Boy"
+        },
+        {
+          "name": "27.png",
+          "vip": false,
+          "character_name": "Girl"
+        },
+        {
+          "name": "28.png",
+          "vip": false,
+          "character_name": "WOW"
+        }
+      ]
+    },
+    {
+      "pack": "troll",
+      "quantity": "24",
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true
+        },
+        {
+          "name": "2.png",
+          "vip": true
+        },
+        {
+          "name": "15.png",
+          "vip": true
+        },
+        {
+          "name": "16.png",
+          "vip": true
+        },
+        {
+          "name": "17.png",
+          "vip": true
+        },
+        {
+          "name": "27.png",
+          "vip": true
+        }
+      ]
     },
     {
       "pack": "Sticker",
@@ -1062,10 +2281,13 @@
       "url_name_wifi": "templatebar_wifi1",
       "url_name_signal": "templatebar_signal1",
       "url_name_time": "templatebar_time1",
-      "url_font_time": "Moodcake",
+      "url_font_time": "Moodcake.ttf",
       "url_name_ringer": "templatebar_ringer1",
       "url_name_background": "templatebar_background1",
       "color_text": "#561D2C",
+      "color_text_in_bg": "#FFFFFF",
+      "color_Text_Bg": "#561D2C",
+      "is_Bg": true,
       "vip": true
     },
     {
@@ -1076,10 +2298,13 @@
       "url_name_wifi": "templatebar_wifi2",
       "url_name_signal": "templatebar_signal2",
       "url_name_time": "templatebar_time2",
-      "url_font_time": "Game_Bubble",
+      "url_font_time": "Game_Bubble.ttf",
       "url_name_ringer": "templatebar_ringer2",
       "url_name_background": "templatebar_background2",
-      "color_text": "#8F43C6",
+      "color_text": "#B75BF8",
+      "color_text_in_bg": "#B75BF8",
+      "color_Text_Bg": "#FFFFFF",
+      "is_Bg": true,
       "vip": true
     },
     {
@@ -1090,10 +2315,13 @@
       "url_name_wifi": "templatebar_wifi3",
       "url_name_signal": "templatebar_signal3",
       "url_name_time": "templatebar_time3",
-      "url_font_time": "Pink_Valentine_TTF_Personal",
+      "url_font_time": "Pink_Valentine_TTF_Personal.ttf",
       "url_name_ringer": "templatebar_ringer3",
       "url_name_background": "templatebar_background3",
       "color_text": "#FE3068",
+      "color_text_in_bg": "#FE3068",
+      "color_Text_Bg": "#FE3068",
+      "is_Bg": false,
       "vip": true
     },
     {
@@ -1104,10 +2332,13 @@
       "url_name_wifi": "templatebar_wifi4",
       "url_name_signal": "templatebar_signal4",
       "url_name_time": "templatebar_time4",
-      "url_font_time": "SunSummer",
+      "url_font_time": "SunSummer.ttf",
       "url_name_ringer": "templatebar_ringer4",
       "url_name_background": "templatebar_background4",
       "color_text": "#4951B6",
+      "color_text_in_bg": "#086ABB",
+      "color_Text_Bg": "#FFFFFF",
+      "is_Bg": true,
       "vip": true
     },
     {
@@ -1118,10 +2349,13 @@
       "url_name_wifi": "templatebar_wifi5",
       "url_name_signal": "templatebar_signal5",
       "url_name_time": "templatebar_time5",
-      "url_font_time": "Moodcake",
+      "url_font_time": "Moodcake.ttf",
       "url_name_ringer": "templatebar_ringer5",
       "url_name_background": "templatebar_background5",
       "color_text": "#412500",
+      "color_text_in_bg": "#FFF5B5",
+      "color_Text_Bg": "#412500",
+      "is_Bg": true,
       "vip": true
     },
     {
@@ -1132,10 +2366,13 @@
       "url_name_wifi": "templatebar_wifi6",
       "url_name_signal": "templatebar_signal6",
       "url_name_time": "templatebar_time6",
-      "url_font_time": "SunSummer",
+      "url_font_time": "SunSummer.ttf",
       "url_name_ringer": "templatebar_ringer6",
       "url_name_background": "templatebar_background6",
       "color_text": "#FF00FB",
+      "color_text_in_bg": "#FF00FB",
+      "color_Text_Bg": "#FF00FB",
+      "is_Bg": false,
       "vip": true
     },
     {
@@ -1146,10 +2383,13 @@
       "url_name_wifi": "templatebar_wifi7",
       "url_name_signal": "templatebar_signal7",
       "url_name_time": "templatebar_time7",
-      "url_font_time": "Kathen_Font_by_Situjuh",
+      "url_font_time": "Kathen_Font_by_Situjuh.otf",
       "url_name_ringer": "templatebar_ringer7",
       "url_name_background": "templatebar_background7",
       "color_text": "#6F3030",
+      "color_text_in_bg": "#F9E5A8",
+      "color_Text_Bg": "#6F3030",
+      "is_Bg": true,
       "vip": true
     },
     {
@@ -1160,10 +2400,13 @@
       "url_name_wifi": "templatebar_wifi8",
       "url_name_signal": "templatebar_signal8",
       "url_name_time": "templatebar_time8",
-      "url_font_time": "Rolie_Twily",
+      "url_font_time": "Rolie_Twily.otf",
       "url_name_ringer": "templatebar_ringer8",
       "url_name_background": "templatebar_background8",
       "color_text": "#333333",
+      "color_text_in_bg": "#D91E75",
+      "color_Text_Bg": "#D91E75",
+      "is_Bg": false,
       "vip": true
     },
     {
@@ -1174,10 +2417,13 @@
       "url_name_wifi": "templatebar_wifi9",
       "url_name_signal": "templatebar_signal9",
       "url_name_time": "templatebar_time9",
-      "url_font_time": "Game_Bubble",
+      "url_font_time": "Game_Bubble.ttf",
       "url_name_ringer": "templatebar_ringer9",
       "url_name_background": "templatebar_background9",
       "color_text": "#768419",
+      "color_text_in_bg": "#FF8C00",
+      "color_Text_Bg": "#FFFFFF",
+      "is_Bg": true,
       "vip": true
     },
     {
@@ -1188,10 +2434,13 @@
       "url_name_wifi": "templatebar_wifi10",
       "url_name_signal": "templatebar_signal10",
       "url_name_time": "templatebar_time10",
-      "url_font_time": "Rolie_Twily",
+      "url_font_time": "Rolie_Twily.otf",
       "url_name_ringer": "templatebar_ringer10",
       "url_name_background": "templatebar_background10",
       "color_text": "#8888E5",
+      "color_text_in_bg": "#AD72F2",
+      "color_Text_Bg": "#AD72F2",
+      "is_Bg": false,
       "vip": true
     },
     {
@@ -1202,10 +2451,13 @@
       "url_name_wifi": "templatebar_wifi11",
       "url_name_signal": "templatebar_signal11",
       "url_name_time": "templatebar_time11",
-      "url_font_time": "Game_Bubble",
+      "url_font_time": "Game_Bubble.ttf",
       "url_name_ringer": "templatebar_ringer11",
       "url_name_background": "templatebar_background11",
       "color_text": "#21426A",
+      "color_text_in_bg": "#2677DB",
+      "color_Text_Bg": "#FFFFFF",
+      "is_Bg": true,
       "vip": true
     },
     {
@@ -1216,10 +2468,13 @@
       "url_name_wifi": "templatebar_wifi12",
       "url_name_signal": "templatebar_signal12",
       "url_name_time": "templatebar_time12",
-      "url_font_time": "CHERI",
+      "url_font_time": "CHERI.TTF",
       "url_name_ringer": "templatebar_ringer12",
       "url_name_background": "templatebar_background12",
       "color_text": "#FFFFFF",
+      "color_text_in_bg": "#FFFFFF",
+      "color_Text_Bg": "#FFFFFF",
+      "is_Bg": false,
       "vip": true
     },
     {
@@ -1897,84 +3152,84 @@
     {
       "pack": "Time",
       "url_name_time": "templatebar_time13",
-      "url_font_time": "LEMONMILK",
+      "url_font_time": "LEMONMILK.otf",
       "color_text": "#000000",
       "vip": false
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time14",
-      "url_font_time": "Moodcake",
+      "url_font_time": "Moodcake.ttf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time15",
-      "url_font_time": "Game_Bubble",
+      "url_font_time": "Game_Bubble.ttf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time16",
-      "url_font_time": "Pink_Valentine_TTF_Personal",
+      "url_font_time": "Pink_Valentine_TTF_Personal.ttf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time17",
-      "url_font_time": "SunSummer",
+      "url_font_time": "SunSummer.ttf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time18",
-      "url_font_time": "Kathen_Font_by_Situjuh",
+      "url_font_time": "Kathen_Font_by_Situjuh.otf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time19",
-      "url_font_time": "CHERI",
+      "url_font_time": "CHERI.TTF",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time20",
-      "url_font_time": "Rolie_Twily",
+      "url_font_time": "Rolie_Twily.otf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time21",
-      "url_font_time": "digital",
+      "url_font_time": "digital.ttf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time22",
-      "url_font_time": "Bhineka",
+      "url_font_time": "Bhineka.otf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time23",
-      "url_font_time": "Blackout_Sunrise",
+      "url_font_time": "Blackout_Sunrise.ttf",
       "color_text": "#000000",
       "vip": true
     },
     {
       "pack": "Time",
       "url_name_time": "templatebar_time24",
-      "url_font_time": "Bebas_Regular",
+      "url_font_time": "Bebas_Regular.otf",
       "color_text": "#000000",
       "vip": true
     }
