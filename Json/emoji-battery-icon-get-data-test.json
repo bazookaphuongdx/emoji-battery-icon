@@ -429,27 +429,88 @@
       "items": [
         {
           "name": "1.png",
-          "vip": true
+          "vip": true,
+          "character_name": "birthday"
         },
         {
           "name": "2.png",
-          "vip": true
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "3.png",
+          "vip": true,
+          "character_name": "birthday"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "birthday"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "birthday"
         },
         {
           "name": "15.png",
-          "vip": true
+          "vip": false,
+          "character_name": "birthday"
         },
         {
           "name": "16.png",
-          "vip": true
+          "vip": false,
+          "character_name": "birthday"
         },
         {
           "name": "17.png",
-          "vip": true
-        },
-        {
-          "name": "27.png",
-          "vip": true
+          "vip": false,
+          "character_name": "birthday"
         }
       ]
     },
@@ -459,27 +520,108 @@
       "items": [
         {
           "name": "1.png",
-          "vip": true
+          "vip": true,
+          "character_name": "cake"
         },
         {
           "name": "2.png",
-          "vip": true
+          "vip": true,
+          "character_name": "cake"
+        },
+        {
+          "name": "3.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "cake"
         },
         {
           "name": "15.png",
-          "vip": true
+          "vip": true,
+          "character_name": "cake"
         },
         {
           "name": "16.png",
-          "vip": true
+          "vip": false,
+          "character_name": "cake"
         },
         {
           "name": "17.png",
-          "vip": true
+          "vip": true,
+          "character_name": "cake"
         },
         {
-          "name": "27.png",
-          "vip": true
+          "name": "18.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "cake"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "cake"
         }
       ]
     },
@@ -912,27 +1054,123 @@
       "items": [
         {
           "name": "1.png",
-          "vip": true
+          "vip": true,
+          "character_name": "love"
         },
         {
           "name": "2.png",
-          "vip": true
+          "vip": true,
+          "character_name": "love"
+        },
+        {
+          "name": "3.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "love"
         },
         {
           "name": "15.png",
-          "vip": true
+          "vip": true,
+          "character_name": "love"
         },
         {
           "name": "16.png",
-          "vip": true
+          "vip": true,
+          "character_name": "love"
         },
         {
           "name": "17.png",
-          "vip": true
+          "vip": true,
+          "character_name": "love"
         },
         {
-          "name": "27.png",
-          "vip": true
+          "name": "18.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "19.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "21.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "23.png",
+          "vip": false,
+          "character_name": "love"
+        },
+        {
+          "name": "24.png",
+          "vip": false,
+          "character_name": "love"
         }
       ]
     },
