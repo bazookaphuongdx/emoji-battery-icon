@@ -2,7 +2,7 @@
   "data": [
     {
       "pack": "anime",
-      "total_quantity": 27,
+      "total_quantity": 26,
       "items": [
         { "name": "1.png", "vip": false, "character_name": "315420" },
         { "name": "2.png", "vip": false, "character_name": "482100" },
@@ -29,8 +29,7 @@
         { "name": "23.png", "vip": true, "character_name": "368300" },
         { "name": "24.png", "vip": true, "character_name": "420900" },
         { "name": "25.png", "vip": true, "character_name": "305600" },
-        { "name": "26.png", "vip": true, "character_name": "467400" },
-        { "name": "27.png", "vip": true, "character_name": "393200" }
+        { "name": "26.png", "vip": true, "character_name": "467400" }
       ]
     },
     {
