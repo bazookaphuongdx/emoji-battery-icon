@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "pack": "3d",
+      "total_quantity": 18
+    },
+    {
+      "pack": "anime",
+      "total_quantity": 27
+    },
+    {
+      "pack": "car",
+      "total_quantity": 9
+    },
+    {
+      "pack": "ghost",
+      "total_quantity": 12
+    },
+    {
+      "pack": "meme",
+      "total_quantity": 44
+    },
+    {
+      "pack": "nature",
+      "total_quantity": 15
+    },
+    {
+      "pack": "style",
+      "total_quantity": 26
+    }
+  ]
+}
