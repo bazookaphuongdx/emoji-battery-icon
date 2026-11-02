@@ -1,6 +1,92 @@
 {
   "data": [
     {
+      "pack": "pokemon",
+      "total_quantity": 16,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true,
+          "character_name": "Hitmonchan"
+        },
+        {
+          "name": "2.png",
+          "vip": true,
+          "character_name": "Cubone"
+        },
+        {
+          "name": "3.png",
+          "vip": true,
+          "character_name": "Snivy"
+        },
+        {
+          "name": "4.png",
+          "vip": false,
+          "character_name": "Psyduck"
+        },
+        {
+          "name": "5.png",
+          "vip": true,
+          "character_name": "Gengar"
+        },
+        {
+          "name": "6.png",
+          "vip": false,
+          "character_name": "Meowth"
+        },
+        {
+          "name": "7.png",
+          "vip": true,
+          "character_name": "Sprigatito"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Chikorita"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Mankey"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Leafeon"
+        },
+        {
+          "name": "11.png",
+          "vip": false,
+          "character_name": "Wartortle"
+        },
+        {
+          "name": "12.png",
+          "vip": true,
+          "character_name": "Charmander (Blue Fire)"
+        },
+        {
+          "name": "13.png",
+          "vip": false,
+          "character_name": "Dragonite"
+        },
+        {
+          "name": "14.png",
+          "vip": false,
+          "character_name": "Charmeleon"
+        },
+        {
+          "name": "15.png",
+          "vip": true,
+          "character_name": "Togepi"
+        },
+        {
+          "name": "16.png",
+          "vip": false,
+          "character_name": "Squirtle"
+        }
+      ]
+    },
+    {
       "pack": "anime",
       "total_quantity": 27,
       "items": [
@@ -83,61 +169,6 @@
           "name": "16.png",
           "vip": false,
           "character_name": "Naruto & Gaara"
-        },
-        {
-          "name": "17.png",
-          "vip": true,
-          "character_name": "Hoshino Ai (Oshi no Ko)"
-        },
-        {
-          "name": "18.png",
-          "vip": false,
-          "character_name": "Sabito"
-        },
-        {
-          "name": "19.png",
-          "vip": false,
-          "character_name": "Hoshino Ai"
-        },
-        {
-          "name": "20.png",
-          "vip": false,
-          "character_name": "Roronoa Zoro"
-        },
-        {
-          "name": "21.png",
-          "vip": false,
-          "character_name": "Frieren"
-        },
-        {
-          "name": "22.png",
-          "vip": false,
-          "character_name": "Hashibira Inosuke"
-        },
-        {
-          "name": "23.png",
-          "vip": false,
-          "character_name": "Geto Suguru"
-        },
-        {
-          "name": "24.png",
-          "vip": false,
-          "character_name": "Monkey D. Luffy (Gear 5)"
-        },
-        {
-          "name": "25.png",
-          "vip": false,
-          "character_name": "Hatake Kakashi"
-        },
-        {
-          "name": "26.png",
-          "vip": false,
-          "character_name": "Vinsmoke Sanji"
-        },
-        {
-          "name": "27.png",
-          "vip": false,
-          "character_name": "Hatsune Miku"
         }
       ]
     },
