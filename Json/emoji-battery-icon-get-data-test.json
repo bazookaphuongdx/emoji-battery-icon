@@ -2,37 +2,37 @@
   "data": [
     {
       "pack": "pokemon",
-      "total_quantity": 16,
+      "total_quantity": 22,
       "items": [
         {
           "name": "1.png",
           "vip": true,
-          "character_name": "Hitmonchan"
+          "character_name": "Vulpix"
         },
         {
           "name": "2.png",
-          "vip": true,
-          "character_name": "Cubone"
+          "vip": false,
+          "character_name": "Jolteon"
         },
         {
           "name": "3.png",
           "vip": true,
-          "character_name": "Snivy"
+          "character_name": "Alolan Vulpix"
         },
         {
           "name": "4.png",
-          "vip": false,
-          "character_name": "Psyduck"
+          "vip": true,
+          "character_name": "Riolu"
         },
         {
           "name": "5.png",
-          "vip": true,
-          "character_name": "Gengar"
+          "vip": false,
+          "character_name": "Zorua"
         },
         {
           "name": "6.png",
-          "vip": false,
-          "character_name": "Meowth"
+          "vip": true,
+          "character_name": "Umbreon"
         },
         {
           "name": "7.png",
@@ -83,6 +83,36 @@
           "name": "16.png",
           "vip": false,
           "character_name": "Squirtle"
+        },
+        {
+          "name": "17.png",
+          "vip": true,
+          "character_name": "Hitmonchan"
+        },
+        {
+          "name": "18.png",
+          "vip": true,
+          "character_name": "Cubone"
+        },
+        {
+          "name": "19.png",
+          "vip": true,
+          "character_name": "Snivy"
+        },
+        {
+          "name": "20.png",
+          "vip": false,
+          "character_name": "Psyduck"
+        },
+        {
+          "name": "21.png",
+          "vip": true,
+          "character_name": "Gengar"
+        },
+        {
+          "name": "22.png",
+          "vip": false,
+          "character_name": "Meowth"
         }
       ]
     },
