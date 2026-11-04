@@ -117,6 +117,72 @@
       ]
     },
     {
+      "pack": "conan",
+      "total_quantity": 12,
+      "items": [
+        {
+          "name": "1.png",
+          "vip": true,
+          "character_name": "Edogawa Conan"
+        },
+        {
+          "name": "2.png",
+          "vip": true,
+          "character_name": "Kaito Kid"
+        },
+        {
+          "name": "3.png",
+          "vip": true,
+          "character_name": "Edogawa Conan (Dinosaur Costume)"
+        },
+        {
+          "name": "4.png",
+          "vip": true,
+          "character_name": "Akai Shuichi (Okiya Subaru / disguise)"
+        },
+        {
+          "name": "5.png",
+          "vip": false,
+          "character_name": "Haibara Ai"
+        },
+        {
+          "name": "6.png",
+          "vip": true,
+          "character_name": "Akai Shuichi"
+        },
+        {
+          "name": "7.png",
+          "vip": false,
+          "character_name": "Agasa Hiroshi"
+        },
+        {
+          "name": "8.png",
+          "vip": false,
+          "character_name": "Tsuburaya Mitsuhiko"
+        },
+        {
+          "name": "9.png",
+          "vip": false,
+          "character_name": "Yoshida Ayumi"
+        },
+        {
+          "name": "10.png",
+          "vip": false,
+          "character_name": "Kojima Genta"
+        },
+        {
+          "name": "11.png",
+          "vip": true,
+          "character_name": "Mouri Ran"
+        },
+        {
+          "name": "12.png",
+          "vip": false,
+          "character_name": "Suzuki Sonoko"
+        }
+      ]
+    },
+    {
       "pack": "anime",
       "total_quantity": 27,
       "items": [
