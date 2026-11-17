@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -40,6 +40,11 @@
       "id": "demdong", "template": "human",
       "file": "dances/demdong.json", "music": "video/music_demdong.mp3",
       "name": { "en": "Em chờ đêm đông đến", "vi": "Em chờ đêm đông đến", "ko": "Em chờ đêm đông đến", "ja": "Em chờ đêm đông đến", "es": "Em chờ đêm đông đến", "pt": "Em chờ đêm đông đến", "fr": "Em chờ đêm đông đến" }
+    },
+    {
+      "id": "catwalk", "template": "human",
+      "file": "dances/catwalk.json", "music": "video/music_catwalk.mp3",
+      "name": { "en": "Hip Hop Catwalk", "vi": "Hip Hop Catwalk", "ko": "힙합 캣워크", "ja": "ヒップホップ キャットウォーク", "es": "Hip hop catwalk", "pt": "Hip hop catwalk", "fr": "Hip-hop catwalk" }
     }
   ],
   "presets": [
@@ -48,7 +53,11 @@
     { "id": "langla2", "dance": "langla2", "sample": "h_hoodie", "video": "video/video_langla2.mp4", "thumb": "thumbs/video_langla2.webp" },
     { "id": "nhaydep2", "dance": "nhaydep2", "sample": "h_hoodie", "video": "video/video_nhaydep2.mp4", "thumb": "thumbs/video_nhaydep2.webp" },
     { "id": "hiphop", "dance": "hiphop", "sample": "h_hoodie", "video": "video/video_hiphop.mp4", "thumb": "thumbs/video_hiphop.webp" },
-    { "id": "demdong", "dance": "demdong", "sample": "h_hoodie", "video": "video/video_demdong.mp4", "thumb": "thumbs/video_demdong.webp" }
+    { "id": "demdong", "dance": "demdong", "sample": "h_hoodie", "video": "video/video_demdong.mp4", "thumb": "thumbs/video_demdong.webp" },
+    { "id": "catwalk", "dance": "catwalk", "sample": "h_hoodie", "video": "video/video_catwalk.mp4", "thumb": "thumbs/video_catwalk.webp", "background": "backgrounds/bg_catwalk.webp" }
+  ],
+  "backgrounds": [
+    "backgrounds/bg_catwalk.webp"
   ],
   "puppets": [
     "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
