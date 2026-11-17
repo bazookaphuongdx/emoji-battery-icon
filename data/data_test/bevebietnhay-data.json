@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "dances": [
+    {
+      "id": "buffalo", "template": "human",
+      "file": "dances/buffalo.json", "music": "video/music_buffalo.mp3",
+      "name": { "en": "Buffalo dance", "vi": "Trâu nhảy", "ko": "물소 댄스", "ja": "スイギュウダンス", "es": "Baile del búfalo", "pt": "Dança do búfalo", "fr": "Danse du buffle" }
+    },
+    {
+      "id": "hairflip", "template": "human",
+      "file": "dances/hairflip.json",
+      "name": { "en": "Hair flip dance", "vi": "Nhảy hất tóc", "ko": "머리 넘기기 댄스", "ja": "かみをはらうダンス", "es": "Baile de melena", "pt": "Dança do cabelo", "fr": "Danse des cheveux" }
+    },
+    {
+      "id": "langla", "template": "human",
+      "file": "dances/langla.json", "music": "video/music_langla.mp3",
+      "name": { "en": "Leaf Village dance", "vi": "Điệu nhảy làng lá", "ko": "나뭇잎 마을 댄스", "ja": "木の葉の村ダンス", "es": "Baile de la Aldea de la Hoja", "pt": "Dança da Vila da Folha", "fr": "Danse du village des feuilles" }
+    },
+    {
+      "id": "langla2", "template": "human",
+      "file": "dances/langla2.json", "music": "video/music_langla2.mp3",
+      "name": { "en": "Leaf Village dance 2", "vi": "Điệu nhảy làng lá 2", "ko": "나뭇잎 마을 댄스 2", "ja": "木の葉の村ダンス 2", "es": "Baile de la Aldea de la Hoja 2", "pt": "Dança da Vila da Folha 2", "fr": "Danse du village des feuilles 2" }
+    },
+    {
+      "id": "nhaydep", "template": "human",
+      "file": "dances/nhaydep.json", "music": "video/music_nhaydep.mp3",
+      "name": { "en": "Pretty dance", "vi": "Nhảy đẹp", "ko": "예쁜 댄스", "ja": "きれいなダンス", "es": "Baile bonito", "pt": "Dança bonita", "fr": "Jolie danse" }
+    },
+    {
+      "id": "nhaydep2", "template": "human",
+      "file": "dances/nhaydep2.json", "music": "video/music_nhaydep2.mp3",
+      "name": { "en": "Pretty dance 2", "vi": "Nhảy đẹp 2", "ko": "예쁜 댄스 2", "ja": "きれいなダンス 2", "es": "Baile bonito 2", "pt": "Dança bonita 2", "fr": "Jolie danse 2" }
+    }
+  ],
+  "presets": [
+    { "id": "buffalo", "dance": "buffalo", "sample": "h_hoodie", "video": "video/video_buffalo.mp4", "thumb": "thumbs/video_buffalo.webp", "videoEndMs": 18500 },
+    { "id": "langla", "dance": "langla", "sample": "h_hoodie", "video": "video/video_langla.mp4", "thumb": "thumbs/video_langla.webp", "videoEndMs": 15100 },
+    { "id": "langla2", "dance": "langla2", "sample": "h_hoodie", "video": "video/video_langla2.mp4", "thumb": "thumbs/video_langla2.webp" },
+    { "id": "nhaydep2", "dance": "nhaydep2", "sample": "h_hoodie", "video": "video/video_nhaydep2.mp4", "thumb": "thumbs/video_nhaydep2.webp" }
+  ],
+  "puppets": [
+    "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
+    "bun_arm_l.png", "bun_arm_r.png", "bun_body.png", "bun_head.png", "bun_leg_l.png", "bun_leg_r.png",
+    "hoodie_body.png", "hoodie_head.png", "hoodie_la.png", "hoodie_shin_l.png", "hoodie_shin_r.png", "hoodie_thigh_l.png", "hoodie_thigh_r.png", "hoodie_ua.png",
+    "pen_mai_fbL.png", "pen_mai_fbR.png", "pen_mai_hdL.png", "pen_mai_hdR.png", "pen_mai_head.png", "pen_mai_laL.png", "pen_mai_laR.png", "pen_mai_llL.png", "pen_mai_llR.png", "pen_mai_torso.png", "pen_mai_uaL.png", "pen_mai_uaR.png", "pen_mai_ulL.png", "pen_mai_ulR.png",
+    "pen_ti_fbL.png", "pen_ti_fbR.png", "pen_ti_hdL.png", "pen_ti_hdR.png", "pen_ti_head.png", "pen_ti_laL.png", "pen_ti_laR.png", "pen_ti_llL.png", "pen_ti_llR.png", "pen_ti_torso.png", "pen_ti_uaL.png", "pen_ti_uaR.png", "pen_ti_ulL.png", "pen_ti_ulR.png",
+    "pink_body.png", "pink_head.png", "pink_la_l.png", "pink_la_r.png", "pink_shin_l.png", "pink_shin_r.png", "pink_thigh_l.png", "pink_thigh_r.png", "pink_ua_l.png", "pink_ua_r.png",
+    "wolf_body.png", "wolf_head.png", "wolf_la_l.png", "wolf_la_r.png", "wolf_shin_l.png", "wolf_shin_r.png", "wolf_thigh_l.png", "wolf_thigh_r.png", "wolf_ua_l.png", "wolf_ua_r.png"
+  ]
+}
