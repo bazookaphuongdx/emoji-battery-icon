@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -104,11 +104,11 @@
     { "id": "wiwi", "dance": "wiwi", "sample": "h_hoodie", "video": "video/video_wiwi.mp4", "thumb": "thumbs/video_wiwi.webp", "background": "backgrounds/bg_wiwi.jpg", "preview": "preview/preview_wiwi_s.mp4" },
     { "id": "babybug", "dance": "babybug", "sample": "h_hoodie", "video": "video/video_babybug.mp4", "thumb": "thumbs/video_babybug.webp", "background": "backgrounds/bg_babybug.jpg", "preview": "preview/preview_babybug_s.mp4" },
     { "id": "goingdown", "dance": "goingdown", "sample": "h_hoodie", "video": "video/video_goingdown.mp4", "thumb": "thumbs/video_goingdown.webp", "background": "backgrounds/bg_goingdown.jpg", "preview": "preview/preview_goingdown_s.mp4" },
-    { "id": "dance13", "dance": "dance13", "sample": "h_hoodie", "video": "video/video_dance13.mp4", "thumb": "thumbs/video_dance13.webp", "background": "backgrounds/bg_dance13.jpg", "preview": "preview/preview_dance13.mp4" },
-    { "id": "bestsong", "dance": "bestsong", "sample": "h_hoodie", "video": "video/video_bestsong.mp4", "thumb": "thumbs/video_bestsong.webp", "background": "backgrounds/bg_bestsong.jpg", "preview": "preview/preview_bestsong.mp4" },
-    { "id": "teacher", "dance": "teacher", "sample": "h_hoodie", "video": "video/video_teacher.mp4", "thumb": "thumbs/video_teacher.webp", "background": "backgrounds/bg_teacher.jpg", "preview": "preview/preview_teacher.mp4" },
-    { "id": "daidai", "dance": "daidai", "sample": "h_hoodie", "video": "video/video_daidai.mp4", "thumb": "thumbs/video_daidai.webp", "background": "backgrounds/bg_daidai.jpg", "preview": "preview/preview_daidai.mp4" },
-    { "id": "dance16", "dance": "dance16", "sample": "h_hoodie", "video": "video/video_dance16.mp4", "thumb": "thumbs/video_dance16.webp", "background": "backgrounds/bg_dance16.jpg", "preview": "preview/preview_dance16.mp4" }
+    { "id": "dance13", "dance": "dance13", "sample": "h_hoodie", "video": "video/video_dance13.mp4", "thumb": "thumbs/video_dance13.webp", "background": "backgrounds/bg_dance13.jpg", "preview": "preview/preview_dance13_s.mp4" },
+    { "id": "bestsong", "dance": "bestsong", "sample": "h_hoodie", "video": "video/video_bestsong.mp4", "thumb": "thumbs/video_bestsong.webp", "background": "backgrounds/bg_bestsong.jpg", "preview": "preview/preview_bestsong_s.mp4" },
+    { "id": "teacher", "dance": "teacher", "sample": "h_hoodie", "video": "video/video_teacher.mp4", "thumb": "thumbs/video_teacher.webp", "background": "backgrounds/bg_teacher.jpg", "preview": "preview/preview_teacher_s.mp4" },
+    { "id": "daidai", "dance": "daidai", "sample": "h_hoodie", "video": "video/video_daidai.mp4", "thumb": "thumbs/video_daidai.webp", "background": "backgrounds/bg_daidai.jpg", "preview": "preview/preview_daidai_s.mp4" },
+    { "id": "dance16", "dance": "dance16", "sample": "h_hoodie", "video": "video/video_dance16.mp4", "thumb": "thumbs/video_dance16.webp", "background": "backgrounds/bg_dance16.jpg", "preview": "preview/preview_dance16_s.mp4" }
   ],
   "backgrounds": [
     "backgrounds/bg_buffalo.jpg",
