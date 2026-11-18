@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -50,6 +50,11 @@
       "id": "bumbebum", "template": "human",
       "file": "dances/bumbebum.json", "music": "video/music_bumbebum.mp3",
       "name": { "en": "Bum be bum", "vi": "Bum be bum", "ko": "Bum be bum", "ja": "Bum be bum", "es": "Bum be bum", "pt": "Bum be bum", "fr": "Bum be bum" }
+    },
+    {
+      "id": "wiwi", "template": "human",
+      "file": "dances/wiwi.json", "music": "video/music_wiwi.mp3",
+      "name": { "en": "Wiwii", "vi": "Wiwii", "ko": "Wiwii", "ja": "Wiwii", "es": "Wiwii", "pt": "Wiwii", "fr": "Wiwii" }
     }
   ],
   "presets": [
@@ -60,7 +65,8 @@
     { "id": "hiphop", "dance": "hiphop", "sample": "h_hoodie", "video": "video/video_hiphop.mp4", "thumb": "thumbs/video_hiphop.webp", "background": "backgrounds/bg_hiphop.jpg", "preview": "preview/preview_hiphop.mp4" },
     { "id": "demdong", "dance": "demdong", "sample": "h_hoodie", "video": "video/video_demdong.mp4", "thumb": "thumbs/video_demdong.webp", "background": "backgrounds/bg_demdong.jpg", "preview": "preview/preview_demdong.mp4" },
     { "id": "catwalk", "dance": "catwalk", "sample": "h_hoodie", "video": "video/video_catwalk.mp4", "thumb": "thumbs/video_catwalk.webp", "background": "backgrounds/bg_catwalk.jpg", "preview": "preview/preview_catwalk.mp4" },
-    { "id": "bumbebum", "dance": "bumbebum", "sample": "h_hoodie", "video": "video/video_bumbebum.mp4", "thumb": "thumbs/video_bumbebum.webp", "background": "backgrounds/bg_bumbebum.jpg", "preview": "preview/preview_bumbebum.mp4" }
+    { "id": "bumbebum", "dance": "bumbebum", "sample": "h_hoodie", "video": "video/video_bumbebum.mp4", "thumb": "thumbs/video_bumbebum.webp", "background": "backgrounds/bg_bumbebum.jpg", "preview": "preview/preview_bumbebum.mp4" },
+    { "id": "wiwi", "dance": "wiwi", "sample": "h_hoodie", "video": "video/video_wiwi.mp4", "thumb": "thumbs/video_wiwi.webp", "background": "backgrounds/bg_wiwi.jpg", "preview": "preview/preview_wiwi.mp4" }
   ],
   "backgrounds": [
     "backgrounds/bg_buffalo.jpg",
@@ -70,7 +76,8 @@
     "backgrounds/bg_hiphop.jpg",
     "backgrounds/bg_demdong.jpg",
     "backgrounds/bg_catwalk.jpg",
-    "backgrounds/bg_bumbebum.jpg"
+    "backgrounds/bg_bumbebum.jpg",
+    "backgrounds/bg_wiwi.jpg"
   ],
   "puppets": [
     "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
