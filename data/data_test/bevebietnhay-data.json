@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -85,6 +85,11 @@
       "id": "daidai", "template": "human",
       "file": "dances/daidai.json", "music": "video/music_daidai.mp3",
       "name": { "en": "BLACK BAE", "vi": "BLACK BAE", "ko": "BLACK BAE", "ja": "BLACK BAE", "es": "BLACK BAE", "pt": "BLACK BAE", "fr": "BLACK BAE" }
+    },
+    {
+      "id": "dance16", "template": "human",
+      "file": "dances/dance16.json", "music": "video/music_dance16.mp3",
+      "name": { "en": "BAD", "vi": "BAD", "ko": "BAD", "ja": "BAD", "es": "BAD", "pt": "BAD", "fr": "BAD" }
     }
   ],
   "presets": [
@@ -102,7 +107,8 @@
     { "id": "dance13", "dance": "dance13", "sample": "h_hoodie", "video": "video/video_dance13.mp4", "thumb": "thumbs/video_dance13.webp", "background": "backgrounds/bg_dance13.jpg", "preview": "preview/preview_dance13.mp4" },
     { "id": "bestsong", "dance": "bestsong", "sample": "h_hoodie", "video": "video/video_bestsong.mp4", "thumb": "thumbs/video_bestsong.webp", "background": "backgrounds/bg_bestsong.jpg", "preview": "preview/preview_bestsong.mp4" },
     { "id": "teacher", "dance": "teacher", "sample": "h_hoodie", "video": "video/video_teacher.mp4", "thumb": "thumbs/video_teacher.webp", "background": "backgrounds/bg_teacher.jpg", "preview": "preview/preview_teacher.mp4" },
-    { "id": "daidai", "dance": "daidai", "sample": "h_hoodie", "video": "video/video_daidai.mp4", "thumb": "thumbs/video_daidai.webp", "background": "backgrounds/bg_daidai.jpg", "preview": "preview/preview_daidai.mp4" }
+    { "id": "daidai", "dance": "daidai", "sample": "h_hoodie", "video": "video/video_daidai.mp4", "thumb": "thumbs/video_daidai.webp", "background": "backgrounds/bg_daidai.jpg", "preview": "preview/preview_daidai.mp4" },
+    { "id": "dance16", "dance": "dance16", "sample": "h_hoodie", "video": "video/video_dance16.mp4", "thumb": "thumbs/video_dance16.webp", "background": "backgrounds/bg_dance16.jpg", "preview": "preview/preview_dance16.mp4" }
   ],
   "backgrounds": [
     "backgrounds/bg_buffalo.jpg",
@@ -119,7 +125,8 @@
     "backgrounds/bg_dance13.jpg",
     "backgrounds/bg_bestsong.jpg",
     "backgrounds/bg_teacher.jpg",
-    "backgrounds/bg_daidai.jpg"
+    "backgrounds/bg_daidai.jpg",
+    "backgrounds/bg_dance16.jpg"
   ],
   "puppets": [
     "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
