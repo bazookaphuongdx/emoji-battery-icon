@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -60,6 +60,11 @@
       "id": "babybug", "template": "human",
       "file": "dances/babybug.json", "music": "video/music_babybug.mp3",
       "name": { "en": "Baby you bugging", "vi": "Baby you bugging", "ko": "Baby you bugging", "ja": "Baby you bugging", "es": "Baby you bugging", "pt": "Baby you bugging", "fr": "Baby you bugging" }
+    },
+    {
+      "id": "goingdown", "template": "human",
+      "file": "dances/goingdown.json", "music": "video/music_goingdown.mp3",
+      "name": { "en": "Going down", "vi": "Going down", "ko": "Going down", "ja": "Going down", "es": "Going down", "pt": "Going down", "fr": "Going down" }
     }
   ],
   "presets": [
@@ -72,7 +77,8 @@
     { "id": "catwalk", "dance": "catwalk", "sample": "h_hoodie", "video": "video/video_catwalk.mp4", "thumb": "thumbs/video_catwalk.webp", "background": "backgrounds/bg_catwalk.jpg", "preview": "preview/preview_catwalk.mp4" },
     { "id": "bumbebum", "dance": "bumbebum", "sample": "h_hoodie", "video": "video/video_bumbebum.mp4", "thumb": "thumbs/video_bumbebum.webp", "background": "backgrounds/bg_bumbebum.jpg", "preview": "preview/preview_bumbebum.mp4" },
     { "id": "wiwi", "dance": "wiwi", "sample": "h_hoodie", "video": "video/video_wiwi.mp4", "thumb": "thumbs/video_wiwi.webp", "background": "backgrounds/bg_wiwi.jpg", "preview": "preview/preview_wiwi.mp4" },
-    { "id": "babybug", "dance": "babybug", "sample": "h_hoodie", "video": "video/video_babybug.mp4", "thumb": "thumbs/video_babybug.webp", "background": "backgrounds/bg_babybug.jpg", "preview": "preview/preview_babybug.mp4" }
+    { "id": "babybug", "dance": "babybug", "sample": "h_hoodie", "video": "video/video_babybug.mp4", "thumb": "thumbs/video_babybug.webp", "background": "backgrounds/bg_babybug.jpg", "preview": "preview/preview_babybug.mp4" },
+    { "id": "goingdown", "dance": "goingdown", "sample": "h_hoodie", "video": "video/video_goingdown.mp4", "thumb": "thumbs/video_goingdown.webp", "background": "backgrounds/bg_goingdown.jpg", "preview": "preview/preview_goingdown.mp4" }
   ],
   "backgrounds": [
     "backgrounds/bg_buffalo.jpg",
@@ -84,7 +90,8 @@
     "backgrounds/bg_catwalk.jpg",
     "backgrounds/bg_bumbebum.jpg",
     "backgrounds/bg_wiwi.jpg",
-    "backgrounds/bg_babybug.jpg"
+    "backgrounds/bg_babybug.jpg",
+    "backgrounds/bg_goingdown.jpg"
   ],
   "puppets": [
     "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
