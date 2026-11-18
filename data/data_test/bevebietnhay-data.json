@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -93,17 +93,17 @@
     }
   ],
   "presets": [
-    { "id": "buffalo", "dance": "buffalo", "sample": "h_hoodie", "video": "video/video_buffalo.mp4", "thumb": "thumbs/video_buffalo.webp", "videoEndMs": 18500, "background": "backgrounds/bg_buffalo.jpg", "preview": "preview/preview_buffalo.mp4" },
-    { "id": "langla", "dance": "langla", "sample": "h_hoodie", "video": "video/video_langla.mp4", "thumb": "thumbs/video_langla.webp", "videoEndMs": 15100, "background": "backgrounds/bg_langla.jpg", "preview": "preview/preview_langla.mp4" },
-    { "id": "langla2", "dance": "langla2", "sample": "h_hoodie", "video": "video/video_langla2.mp4", "thumb": "thumbs/video_langla2.webp", "background": "backgrounds/bg_langla2.jpg", "preview": "preview/preview_langla2.mp4" },
-    { "id": "nhaydep2", "dance": "nhaydep2", "sample": "h_hoodie", "video": "video/video_nhaydep2.mp4", "thumb": "thumbs/video_nhaydep2.webp", "background": "backgrounds/bg_nhaydep2.jpg", "preview": "preview/preview_nhaydep2.mp4" },
-    { "id": "hiphop", "dance": "hiphop", "sample": "h_hoodie", "video": "video/video_hiphop.mp4", "thumb": "thumbs/video_hiphop.webp", "background": "backgrounds/bg_hiphop.jpg", "preview": "preview/preview_hiphop.mp4" },
-    { "id": "demdong", "dance": "demdong", "sample": "h_hoodie", "video": "video/video_demdong.mp4", "thumb": "thumbs/video_demdong.webp", "background": "backgrounds/bg_demdong.jpg", "preview": "preview/preview_demdong.mp4" },
-    { "id": "catwalk", "dance": "catwalk", "sample": "h_hoodie", "video": "video/video_catwalk.mp4", "thumb": "thumbs/video_catwalk.webp", "background": "backgrounds/bg_catwalk.jpg", "preview": "preview/preview_catwalk.mp4" },
-    { "id": "bumbebum", "dance": "bumbebum", "sample": "h_hoodie", "video": "video/video_bumbebum.mp4", "thumb": "thumbs/video_bumbebum.webp", "background": "backgrounds/bg_bumbebum.jpg", "preview": "preview/preview_bumbebum.mp4" },
-    { "id": "wiwi", "dance": "wiwi", "sample": "h_hoodie", "video": "video/video_wiwi.mp4", "thumb": "thumbs/video_wiwi.webp", "background": "backgrounds/bg_wiwi.jpg", "preview": "preview/preview_wiwi.mp4" },
-    { "id": "babybug", "dance": "babybug", "sample": "h_hoodie", "video": "video/video_babybug.mp4", "thumb": "thumbs/video_babybug.webp", "background": "backgrounds/bg_babybug.jpg", "preview": "preview/preview_babybug.mp4" },
-    { "id": "goingdown", "dance": "goingdown", "sample": "h_hoodie", "video": "video/video_goingdown.mp4", "thumb": "thumbs/video_goingdown.webp", "background": "backgrounds/bg_goingdown.jpg", "preview": "preview/preview_goingdown.mp4" },
+    { "id": "buffalo", "dance": "buffalo", "sample": "h_hoodie", "video": "video/video_buffalo.mp4", "thumb": "thumbs/video_buffalo.webp", "videoEndMs": 18500, "background": "backgrounds/bg_buffalo.jpg", "preview": "preview/preview_buffalo_s.mp4" },
+    { "id": "langla", "dance": "langla", "sample": "h_hoodie", "video": "video/video_langla.mp4", "thumb": "thumbs/video_langla.webp", "videoEndMs": 15100, "background": "backgrounds/bg_langla.jpg", "preview": "preview/preview_langla_s.mp4" },
+    { "id": "langla2", "dance": "langla2", "sample": "h_hoodie", "video": "video/video_langla2.mp4", "thumb": "thumbs/video_langla2.webp", "background": "backgrounds/bg_langla2.jpg", "preview": "preview/preview_langla2_s.mp4" },
+    { "id": "nhaydep2", "dance": "nhaydep2", "sample": "h_hoodie", "video": "video/video_nhaydep2.mp4", "thumb": "thumbs/video_nhaydep2.webp", "background": "backgrounds/bg_nhaydep2.jpg", "preview": "preview/preview_nhaydep2_s.mp4" },
+    { "id": "hiphop", "dance": "hiphop", "sample": "h_hoodie", "video": "video/video_hiphop.mp4", "thumb": "thumbs/video_hiphop.webp", "background": "backgrounds/bg_hiphop.jpg", "preview": "preview/preview_hiphop_s.mp4" },
+    { "id": "demdong", "dance": "demdong", "sample": "h_hoodie", "video": "video/video_demdong.mp4", "thumb": "thumbs/video_demdong.webp", "background": "backgrounds/bg_demdong.jpg", "preview": "preview/preview_demdong_s.mp4" },
+    { "id": "catwalk", "dance": "catwalk", "sample": "h_hoodie", "video": "video/video_catwalk.mp4", "thumb": "thumbs/video_catwalk.webp", "background": "backgrounds/bg_catwalk.jpg", "preview": "preview/preview_catwalk_s.mp4" },
+    { "id": "bumbebum", "dance": "bumbebum", "sample": "h_hoodie", "video": "video/video_bumbebum.mp4", "thumb": "thumbs/video_bumbebum.webp", "background": "backgrounds/bg_bumbebum.jpg", "preview": "preview/preview_bumbebum_s.mp4" },
+    { "id": "wiwi", "dance": "wiwi", "sample": "h_hoodie", "video": "video/video_wiwi.mp4", "thumb": "thumbs/video_wiwi.webp", "background": "backgrounds/bg_wiwi.jpg", "preview": "preview/preview_wiwi_s.mp4" },
+    { "id": "babybug", "dance": "babybug", "sample": "h_hoodie", "video": "video/video_babybug.mp4", "thumb": "thumbs/video_babybug.webp", "background": "backgrounds/bg_babybug.jpg", "preview": "preview/preview_babybug_s.mp4" },
+    { "id": "goingdown", "dance": "goingdown", "sample": "h_hoodie", "video": "video/video_goingdown.mp4", "thumb": "thumbs/video_goingdown.webp", "background": "backgrounds/bg_goingdown.jpg", "preview": "preview/preview_goingdown_s.mp4" },
     { "id": "dance13", "dance": "dance13", "sample": "h_hoodie", "video": "video/video_dance13.mp4", "thumb": "thumbs/video_dance13.webp", "background": "backgrounds/bg_dance13.jpg", "preview": "preview/preview_dance13.mp4" },
     { "id": "bestsong", "dance": "bestsong", "sample": "h_hoodie", "video": "video/video_bestsong.mp4", "thumb": "thumbs/video_bestsong.webp", "background": "backgrounds/bg_bestsong.jpg", "preview": "preview/preview_bestsong.mp4" },
     { "id": "teacher", "dance": "teacher", "sample": "h_hoodie", "video": "video/video_teacher.mp4", "thumb": "thumbs/video_teacher.webp", "background": "backgrounds/bg_teacher.jpg", "preview": "preview/preview_teacher.mp4" },
