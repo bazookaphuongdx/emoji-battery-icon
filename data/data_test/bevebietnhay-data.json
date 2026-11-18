@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -80,6 +80,11 @@
       "id": "teacher", "template": "human",
       "file": "dances/teacher.json", "music": "video/music_teacher.mp3",
       "name": { "en": "Dancing with my dance teacher", "vi": "Nhảy cùng cô giáo", "ko": "댄스 선생님과 춤을", "ja": "ダンスの先生とおどろう", "es": "Bailando con mi profe", "pt": "Dançando com minha professora", "fr": "Danse avec ma prof" }
+    },
+    {
+      "id": "daidai", "template": "human",
+      "file": "dances/daidai.json", "music": "video/music_daidai.mp3",
+      "name": { "en": "BLACK BAE", "vi": "BLACK BAE", "ko": "BLACK BAE", "ja": "BLACK BAE", "es": "BLACK BAE", "pt": "BLACK BAE", "fr": "BLACK BAE" }
     }
   ],
   "presets": [
@@ -96,7 +101,8 @@
     { "id": "goingdown", "dance": "goingdown", "sample": "h_hoodie", "video": "video/video_goingdown.mp4", "thumb": "thumbs/video_goingdown.webp", "background": "backgrounds/bg_goingdown.jpg", "preview": "preview/preview_goingdown.mp4" },
     { "id": "dance13", "dance": "dance13", "sample": "h_hoodie", "video": "video/video_dance13.mp4", "thumb": "thumbs/video_dance13.webp", "background": "backgrounds/bg_dance13.jpg", "preview": "preview/preview_dance13.mp4" },
     { "id": "bestsong", "dance": "bestsong", "sample": "h_hoodie", "video": "video/video_bestsong.mp4", "thumb": "thumbs/video_bestsong.webp", "background": "backgrounds/bg_bestsong.jpg", "preview": "preview/preview_bestsong.mp4" },
-    { "id": "teacher", "dance": "teacher", "sample": "h_hoodie", "video": "video/video_teacher.mp4", "thumb": "thumbs/video_teacher.webp", "background": "backgrounds/bg_teacher.jpg", "preview": "preview/preview_teacher.mp4" }
+    { "id": "teacher", "dance": "teacher", "sample": "h_hoodie", "video": "video/video_teacher.mp4", "thumb": "thumbs/video_teacher.webp", "background": "backgrounds/bg_teacher.jpg", "preview": "preview/preview_teacher.mp4" },
+    { "id": "daidai", "dance": "daidai", "sample": "h_hoodie", "video": "video/video_daidai.mp4", "thumb": "thumbs/video_daidai.webp", "background": "backgrounds/bg_daidai.jpg", "preview": "preview/preview_daidai.mp4" }
   ],
   "backgrounds": [
     "backgrounds/bg_buffalo.jpg",
@@ -112,7 +118,8 @@
     "backgrounds/bg_goingdown.jpg",
     "backgrounds/bg_dance13.jpg",
     "backgrounds/bg_bestsong.jpg",
-    "backgrounds/bg_teacher.jpg"
+    "backgrounds/bg_teacher.jpg",
+    "backgrounds/bg_daidai.jpg"
   ],
   "puppets": [
     "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
