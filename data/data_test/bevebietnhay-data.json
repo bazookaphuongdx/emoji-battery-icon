@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -65,6 +65,11 @@
       "id": "goingdown", "template": "human",
       "file": "dances/goingdown.json", "music": "video/music_goingdown.mp3",
       "name": { "en": "Going down", "vi": "Going down", "ko": "Going down", "ja": "Going down", "es": "Going down", "pt": "Going down", "fr": "Going down" }
+    },
+    {
+      "id": "dance13", "template": "human",
+      "file": "dances/dance13.json", "music": "video/music_dance13.mp3",
+      "name": { "en": "Arm wave dance", "vi": "Nhảy vẫy tay", "ko": "팔 흔들기 댄스", "ja": "うでをふるダンス", "es": "Baile de brazos", "pt": "Dança dos braços", "fr": "Danse des bras" }
     }
   ],
   "presets": [
@@ -78,7 +83,8 @@
     { "id": "bumbebum", "dance": "bumbebum", "sample": "h_hoodie", "video": "video/video_bumbebum.mp4", "thumb": "thumbs/video_bumbebum.webp", "background": "backgrounds/bg_bumbebum.jpg", "preview": "preview/preview_bumbebum.mp4" },
     { "id": "wiwi", "dance": "wiwi", "sample": "h_hoodie", "video": "video/video_wiwi.mp4", "thumb": "thumbs/video_wiwi.webp", "background": "backgrounds/bg_wiwi.jpg", "preview": "preview/preview_wiwi.mp4" },
     { "id": "babybug", "dance": "babybug", "sample": "h_hoodie", "video": "video/video_babybug.mp4", "thumb": "thumbs/video_babybug.webp", "background": "backgrounds/bg_babybug.jpg", "preview": "preview/preview_babybug.mp4" },
-    { "id": "goingdown", "dance": "goingdown", "sample": "h_hoodie", "video": "video/video_goingdown.mp4", "thumb": "thumbs/video_goingdown.webp", "background": "backgrounds/bg_goingdown.jpg", "preview": "preview/preview_goingdown.mp4" }
+    { "id": "goingdown", "dance": "goingdown", "sample": "h_hoodie", "video": "video/video_goingdown.mp4", "thumb": "thumbs/video_goingdown.webp", "background": "backgrounds/bg_goingdown.jpg", "preview": "preview/preview_goingdown.mp4" },
+    { "id": "dance13", "dance": "dance13", "sample": "h_hoodie", "video": "video/video_dance13.mp4", "thumb": "thumbs/video_dance13.webp", "background": "backgrounds/bg_dance13.jpg", "preview": "preview/preview_dance13.mp4" }
   ],
   "backgrounds": [
     "backgrounds/bg_buffalo.jpg",
@@ -91,7 +97,8 @@
     "backgrounds/bg_bumbebum.jpg",
     "backgrounds/bg_wiwi.jpg",
     "backgrounds/bg_babybug.jpg",
-    "backgrounds/bg_goingdown.jpg"
+    "backgrounds/bg_goingdown.jpg",
+    "backgrounds/bg_dance13.jpg"
   ],
   "puppets": [
     "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
