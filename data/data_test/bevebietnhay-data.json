@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "dances": [
     {
       "id": "buffalo", "template": "human",
@@ -90,6 +90,11 @@
       "id": "dance16", "template": "human",
       "file": "dances/dance16.json", "music": "video/music_dance16.mp3",
       "name": { "en": "BAD", "vi": "BAD", "ko": "BAD", "ja": "BAD", "es": "BAD", "pt": "BAD", "fr": "BAD" }
+    },
+    {
+      "id": "girlstyle", "template": "human",
+      "file": "dances/girlstyle.json", "music": "video/music_girlstyle.mp3",
+      "name": { "en": "New Thang", "vi": "New Thang", "ko": "New Thang", "ja": "New Thang", "es": "New Thang", "pt": "New Thang", "fr": "New Thang" }
     }
   ],
   "presets": [
@@ -108,7 +113,8 @@
     { "id": "bestsong", "dance": "bestsong", "sample": "h_hoodie", "video": "video/video_bestsong.mp4", "thumb": "thumbs/video_bestsong.webp", "background": "backgrounds/bg_bestsong.jpg", "preview": "preview/preview_bestsong_m.mp4" },
     { "id": "teacher", "dance": "teacher", "sample": "h_hoodie", "video": "video/video_teacher.mp4", "thumb": "thumbs/video_teacher.webp", "background": "backgrounds/bg_teacher.jpg", "preview": "preview/preview_teacher_m.mp4" },
     { "id": "daidai", "dance": "daidai", "sample": "h_hoodie", "video": "video/video_daidai.mp4", "thumb": "thumbs/video_daidai.webp", "background": "backgrounds/bg_daidai.jpg", "preview": "preview/preview_daidai_m.mp4" },
-    { "id": "dance16", "dance": "dance16", "sample": "h_hoodie", "video": "video/video_dance16.mp4", "thumb": "thumbs/video_dance16.webp", "background": "backgrounds/bg_dance16.jpg", "preview": "preview/preview_dance16_m.mp4" }
+    { "id": "dance16", "dance": "dance16", "sample": "h_hoodie", "video": "video/video_dance16.mp4", "thumb": "thumbs/video_dance16.webp", "background": "backgrounds/bg_dance16.jpg", "preview": "preview/preview_dance16_m.mp4" },
+    { "id": "girlstyle", "dance": "girlstyle", "sample": "h_hoodie", "video": "video/video_girlstyle.mp4", "thumb": "thumbs/video_girlstyle.webp", "background": "backgrounds/bg_girlstyle.jpg", "preview": "preview/preview_girlstyle_m.mp4" }
   ],
   "backgrounds": [
     "backgrounds/bg_buffalo.jpg",
@@ -126,7 +132,8 @@
     "backgrounds/bg_bestsong.jpg",
     "backgrounds/bg_teacher.jpg",
     "backgrounds/bg_daidai.jpg",
-    "backgrounds/bg_dance16.jpg"
+    "backgrounds/bg_dance16.jpg",
+    "backgrounds/bg_girlstyle.jpg"
   ],
   "puppets": [
     "boy_body.png", "boy_head.png", "boy_la.png", "boy_shin_l.png", "boy_shin_r.png", "boy_thigh_l.png", "boy_thigh_r.png", "boy_ua.png",
