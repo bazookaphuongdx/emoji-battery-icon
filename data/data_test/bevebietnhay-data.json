@@ -10,6 +10,11 @@
   ],
   "dances": [
     {
+      "id": "khodoan", "template": "human",
+      "file": "dances/khodoan.json", "music": "video/music_khodoan.mp3",
+      "name": { "en": "Life is unpredictable", "vi": "Cuộc đời khó đoán", "ko": "인생은 예측불가", "ja": "人生は予測不能", "es": "La vida es impredecible", "pt": "A vida é imprevisível", "fr": "La vie est imprévisible" }
+    },
+    {
       "id": "chinesekids", "template": "human",
       "file": "dances/chinesekids.json", "music": "video/music_chinesekids.mp3",
       "name": { "en": "Kids meme", "vi": "Kids meme", "ko": "키즈 밈", "ja": "キッズミーム", "es": "Kids meme", "pt": "Kids meme", "fr": "Kids meme" }
@@ -111,6 +116,7 @@
     }
   ],
   "presets": [
+    { "id": "khodoan", "dance": "khodoan", "sample": "h_hoodie", "video": "video/video_khodoan.mp4", "thumb": "thumbs/video_khodoan.webp", "background": "backgrounds/bg_khodoan.jpg", "tags": ["funny"], "views": 9300000 },
     { "id": "chinesekids", "dance": "chinesekids", "sample": "h_hoodie", "video": "video/video_chinesekids.mp4", "thumb": "thumbs/video_chinesekids.webp", "background": "backgrounds/bg_chinesekids.jpg", "tags": ["funny"], "views": 18600000 },
     { "id": "langla2", "dance": "langla2", "sample": "h_hoodie", "video": "video/video_langla2.mp4", "thumb": "thumbs/video_langla2.webp", "background": "backgrounds/bg_langla2.jpg", "preview": "preview/preview_langla2_m.mp4", "tags": ["kpop", "summer"], "views": 12400000 },
     { "id": "nhaydep2", "dance": "nhaydep2", "sample": "h_hoodie", "video": "video/video_nhaydep2.mp4", "thumb": "thumbs/video_nhaydep2.webp", "background": "backgrounds/bg_nhaydep2.jpg", "preview": "preview/preview_nhaydep2_m.mp4", "tags": ["kpop", "party"], "vip": true, "views": 8700000 },
